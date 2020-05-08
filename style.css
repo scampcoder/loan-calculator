@@ -1,7 +1,7 @@
 #loancal{
   width: 375px;
   height: 295px;
-  background-color: #000;
+  background-color: #85bb65 /*dollar bill hex code babee*/;
   color: #fff;
   margin-left: 275px;
   margin-top: 95px;
@@ -25,6 +25,9 @@
   height: 20px;
 }
 
+body{
+  background-image: url(https://images.wallpaperscraft.com/image/money_dollar_dignity_amount_denominations_one_background_31463_1280x720.jpg)
+}
 h1{
   font-size: 40px;
 }
